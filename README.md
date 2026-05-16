@@ -1,3 +1,4 @@
+![Project Poster](project-poster.png)
 # 🩸 Blood Bank Management System
 
 A Java-based system for managing blood bank operations efficiently using Object-Oriented Programming concepts.
